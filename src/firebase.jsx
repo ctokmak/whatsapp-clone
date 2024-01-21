@@ -5,12 +5,12 @@ import { getStorage } from 'firebase/storage';
 import { GoogleAuthProvider } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyB-4974dgp-ZgCwWxiIB2qxEs4HPRV2REc',
-  authDomain: 'whatsapp-clone-c7ed0.firebaseapp.com',
-  projectId: 'whatsapp-clone-c7ed0',
-  storageBucket: 'whatsapp-clone-c7ed0.appspot.com',
-  messagingSenderId: '648530474046',
-  appId: '1:648530474046:web:a862292787f4812c11cd6f',
+  apiKey: '',
+  authDomain: '',
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: '',
 };
 
 const app = initializeApp(firebaseConfig);
